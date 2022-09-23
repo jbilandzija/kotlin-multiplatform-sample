@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>MaxLineLength:HardcodedContent.kt$ ___ __ _________ _____ ______ ___ ___ ___ _________ ___ ________ ___ ________ _________ ________ ________ ________ _____ ______ </ID>
+    <ID>MaxLineLength:HardcodedContent.kt$Support for multiplatform programming is one of Kotlin’s key benefits. It reduces time spent writing and maintaining the same code for different platforms while retaining the flexibility and benefits of native programming.</ID>
+    <ID>MaxLineLength:HardcodedContent.kt$With Kotlin Multiplatform, spend less time on writing and maintaining the same code for different platforms – just share it using the mechanisms Kotlin provides:</ID>
+    <ID>MaxLineLength:HardcodedContent.kt$\</ID>
+    <ID>MaxLineLength:HardcodedContent.kt$|</ID>
+  </CurrentIssues>
+</SmellBaseline>
