@@ -2,6 +2,9 @@
 
 ![KT Sample](doc/kt-sample.gif)
 
+## Blog
+👉🏻 [A self-contained system approach using Kotlin Multiplatform](https://www.novatec-gmbh.de/en/blog/a-self-contained-system-approach-using-kotlin-multiplatform/)
+
 ### Tech stack
 Full-stack web application using [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 - [Ktor/Kotlin](https://ktor.io/) for backend-side
